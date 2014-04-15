@@ -448,10 +448,10 @@ public class ReprogrammingStuff : MonoBehaviour {
 				(GameObject.FindObjectOfType(System.Type.GetType ("TPControllerV2")) as TPControllerV2).FreeMovement();
 			}
 			
-			if(Input.GetButton ("B_1"))
-			{
-				ResetTarget();
-			}
+            //if(Input.GetButton ("B_1"))
+            //{
+            //    ResetTarget();
+            //}
 			
 		}
 		

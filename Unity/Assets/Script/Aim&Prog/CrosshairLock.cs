@@ -235,9 +235,10 @@ public class CrosshairLock : MonoBehaviour {
 		if( softLockEnabled==false && isLocking == true 
 			&& (GameObject.FindObjectOfType(System.Type.GetType ("TPControllerV2")) as TPControllerV2).isAiming == true)
 		{			
-			if(Input.GetAxis("TriggersR_1") >= 0.9 && Time.timeScale !=0)
-			{		
-				getCurrentOption();
+			if(Input.GetButtonDown("B_1") || (Input.GetButtonDown("X_1")) || (Input.GetButtonDown("Y_1")))
+			{
+                Debug.Log("ButtonGot");
+                getCurrentOption();
 			}
 			
 			// Si le bouton est lache sur translateX ou translateY, on lance la modification. A terme on va avoir un "else if"
