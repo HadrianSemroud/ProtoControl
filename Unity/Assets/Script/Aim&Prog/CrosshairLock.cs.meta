@@ -1,0 +1,54 @@
+fileFormatVersion: 2
+guid: 22a858619bad0eb48ae0ae9aa9c3299c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - crosshairNormal: {fileID: 2800000, guid: 0288c8d31b071494da77953be82de68c, type: 3}
+  - crosshairLock: {fileID: 2800000, guid: 0e3faafdce65f554392c019cf1a366ce, type: 3}
+  - cadran: {fileID: 2800000, guid: b6e5e9d8834141f4f8e6b5e0f7a69ee1, type: 3}
+  - cadran2: {fileID: 2800000, guid: 7fa8111edf88eb846beace3c0a6c6ec5, type: 3}
+  - cadran3: {fileID: 2800000, guid: 64dec1a7e61117442ad9e7b4be59ceb2, type: 3}
+  - cadran_TranslateX_Normal: {fileID: 2800000, guid: f00456ae78141bb439c5e7de958e38fa,
+      type: 3}
+  - cadran_TranslateX_Selected: {fileID: 2800000, guid: 560c7b0fa07c87c4e8cff20f29f49644,
+      type: 3}
+  - cadran_TranslateY_Normal: {fileID: 2800000, guid: b351f0e3867ff8d40a3b78393815f2d2,
+      type: 3}
+  - cadran_TranslateY_Selected: {fileID: 2800000, guid: b49ee0e5218406f409d6dccecd4b8215,
+      type: 3}
+  - cadran_TranslateZ_Normal: {fileID: 2800000, guid: 9909ff38622dac448b1abd07c2fd1049,
+      type: 3}
+  - cadran_TranslateZ_Selected: {fileID: 2800000, guid: c189edf514b80c4438f3f0ab9c21c279,
+      type: 3}
+  - cadran_ScaleX_Normal: {fileID: 2800000, guid: 1528f9b8f5adfa940ae5e8c2c466e695,
+      type: 3}
+  - cadran_ScaleX_Selected: {fileID: 2800000, guid: 2e704681907d1ef4ea8c6cdd4e47ab83,
+      type: 3}
+  - cadran_ScaleY_Normal: {fileID: 2800000, guid: 54d5d5dd586de6041a6874b8b93d0971,
+      type: 3}
+  - cadran_ScaleY_Selected: {fileID: 2800000, guid: bad59ed8ec6ebe04d9458e6cac9743dc,
+      type: 3}
+  - cadran_ScaleZ_Normal: {fileID: 2800000, guid: bd41533e41c3fff4080ee6e210ba4644,
+      type: 3}
+  - cadran_ScaleZ_Selected: {fileID: 2800000, guid: 668af170435d47b49bfbcc0d1a5573d3,
+      type: 3}
+  - cadran_RotateX_Normal: {fileID: 2800000, guid: 4168b9691c5b8674a923fcff7564fa2c,
+      type: 3}
+  - cadran_RotateX_Selected: {fileID: 2800000, guid: d65b8097a96801d4780f76104a86e4c0,
+      type: 3}
+  - cadran_RotateY_Normal: {fileID: 2800000, guid: 51c6efd89b878e045a9b5ee428907b78,
+      type: 3}
+  - cadran_RotateY_Selected: {fileID: 2800000, guid: 67ed4a7d90a2f6643b6d36b5de62e90d,
+      type: 3}
+  - cadran_RotateZ_Normal: {fileID: 2800000, guid: dd8879eacfa2ed1409978a24ea817df3,
+      type: 3}
+  - cadran_RotateZ_Selected: {fileID: 2800000, guid: 8c79abf563c263640b4ff5e4217124fc,
+      type: 3}
+  - Lang1: {fileID: 2800000, guid: 32e7148ad42a4d44c90ffc841e764f9a, type: 3}
+  - Lang2: {fileID: 2800000, guid: 012e2fed804d3d447908bffcd00b242b, type: 3}
+  - Lang3: {fileID: 2800000, guid: dbf1d50109482b74b990e76c7d9624d2, type: 3}
+  - targetToModify: {instanceID: 0}
+  - lastGameObjectLocked: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

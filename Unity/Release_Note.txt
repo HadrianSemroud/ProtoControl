@@ -1,0 +1,40 @@
+*********************************
+***** WildSide Release Note *****
+*********************************
+
+***** Corrections/Ajouts *****
+
+- Réglage du saut (paramètres à tuner mais la base est là)
+- Collision de la caméra (la caméra se replace automatiquement si elle rencontre un mur)
+- Collision entre les plateformes et les murs/le sol (un effect de glitch sur la caméra sera appliqué lors des collisions)
+- Nouvelles compétences : Translate Z, Scale Z, Rotate XYZ
+- Ennemis : Game Over si le joueur les touche
+- Situations de jeu
+- Conditions de victoire : Finir le niveau
+- Conditions de défaite : Tomber dans l'eau ou toucher un ennemi
+
+
+*************************
+***** Mode SoftLock *****
+*************************
+
+- Les plateformes proches à l'écran clignotent : elles sont modifiables
+- La plateforme modifiable la plus proche est ciblée automatiquement
+- Le joueur peut changer de cible avec RB et LB si plusieurs plateformes sont modifiables à l'écran
+
+***** Contrôles *****
+
+LT : Ouvrir le cadran
+RB/LB : Changer de cible
+
+
+
+********************************
+***** Notes et bugs connus *****
+********************************
+
+- A terme, le joueur ne pourra pas modifier la plateforme sur
+laquelle il se trouve.
+- Les collisions de la caméra sont parfois bizarres (tuning en cours)
+- Les collisions entre les plateformes et les murs buguent parfois (si on force la main)
+
