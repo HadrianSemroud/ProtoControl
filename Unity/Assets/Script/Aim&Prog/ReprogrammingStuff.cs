@@ -447,11 +447,11 @@ public class ReprogrammingStuff : MonoBehaviour {
 				(GameObject.FindObjectOfType(System.Type.GetType ("TPCameraV2")) as TPCameraV2).playerCanRotate = false;
 				(GameObject.FindObjectOfType(System.Type.GetType ("TPControllerV2")) as TPControllerV2).FreeMovement();
 			}
-			
-            //if(Input.GetButton ("B_1"))
-            //{
-            //    ResetTarget();
-            //}
+
+            if (Input.GetButton("RB_1"))
+            {
+                ResetTarget();
+            }
 			
 		}
 		
